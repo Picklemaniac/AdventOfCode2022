@@ -30,9 +30,11 @@ namespace AdventOfCode2022
             //Day7 day7 = new Day7();
             //day7.SolvePuzzle2();
 
-            Day8 day8 = new Day8();
-            day8.SolvePuzzle1();
-            day8.SolvePuzzle2();
+            //Day8 day8 = new Day8();
+            //day8.SolvePuzzle1();
+            //day8.SolvePuzzle2();
+
+            Day9 day9 = new Day9();
             Console.ReadLine();
         }
     }
