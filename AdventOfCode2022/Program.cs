@@ -35,6 +35,7 @@ namespace AdventOfCode2022
             //day8.SolvePuzzle2();
 
             Day9 day9 = new Day9();
+            day9.SolvePuzzle2();
             Console.ReadLine();
         }
     }
